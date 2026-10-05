@@ -1,5 +1,7 @@
 # G8INK
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/MiaoMint/g8ink)
+
 一个短链生成程序
 
 ![首页](https://s1.ax1x.com/2022/04/26/LbEqns.png)
